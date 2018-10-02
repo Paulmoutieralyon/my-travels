@@ -2,8 +2,13 @@
   text-align: center;
 }
 
-.App-logo {
+.pause {
   animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.working {
+  animation: App-logo-spin infinite 1s linear;
   height: 80px;
 }
 
